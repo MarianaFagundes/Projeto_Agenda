@@ -27,7 +27,5 @@ git clone https://github.com/MarianaFagundes/agenda-de-contatos-python.git
 cd agenda-de-contatos-python
 python agenda.py
 
-##📌 Status
-✅ Funcional
-🔜 Futuras melhorias: persistência via arquivo .json ou banco leve + testes
+
 
