@@ -13,6 +13,14 @@ Projeto simples em Python que simula uma agenda de contatos no terminal.
 - Python 3
 - Listas e dicionários
 
+##📌 Status
+✅ Funcional
+🔜 Futuras melhorias: persistência via arquivo .json ou banco leve + testes
+
+
+##👩‍💻 Autora
+Mariana Fagundes Rodrigues
+
 ## 🚀 Como executar
 ```bash
 git clone https://github.com/MarianaFagundes/agenda-de-contatos-python.git
@@ -23,5 +31,3 @@ python agenda.py
 ✅ Funcional
 🔜 Futuras melhorias: persistência via arquivo .json ou banco leve + testes
 
-##👩‍💻 Autora
-Mariana Fagundes Rodrigues
